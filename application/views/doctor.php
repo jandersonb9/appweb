@@ -11,6 +11,9 @@
 <br><br><br>
 <div>
   <?php echo($tabla);?>
+  <?php
+$this->load->view('incluidos/footer');
+?>
 </div>
 
 
