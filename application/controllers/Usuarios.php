@@ -31,9 +31,9 @@ class Usuarios extends CI_Controller {
 		$this->crud->set_theme("flexigrid");
 
 		// columnas que deseamos ver
-		$this->crud->columns('foto','usuario','clave','telefono','perfil');
+		$this->crud->columns('foto','usuario','telefono','perfil');
 		// los campos a cargar
-		$this->crud->fields('foto','usuario','clave','telefono','perfil');
+		$this->crud->fields('foto','usuario','telefono','perfil');
 		// definir clave unica
 		$this->crud->unique_fields(array('usuario'));
 		// si se desea asociar el tipo de usuario para que apareza como un seleccionador de otra tabla
@@ -41,11 +41,10 @@ class Usuarios extends CI_Controller {
 		// agregar la opcion de subir una imagen o documento al sistema
 		$this->crud->set_field_upload("foto","assets/imagenes/usuarios/");
 		// el campo clave que lo cambie tipo text a tipo password
-		$this->crud->change_field_type('clave','password');
 		// el campo usuario lo vuelva email
 		$this->crud->change_field_type('usuario','email');
 		// definir campos obligatorios
-		$this->crud->required_fields('nombre','clave','foto','telefono','perfil');
+		$this->crud->required_fields('nombre','foto','telefono','perfil');
 		
 		
 

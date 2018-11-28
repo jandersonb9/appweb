@@ -2,7 +2,7 @@
 		<div class="container">
 			<div class="row justify-content-center section-title-wrap">
 				<div class="col-lg-12">
-					<h1>Enjoy our Client’s Feedback</h1>
+					<h1>Disfrute de los comentarios de nuestros clientes</h1>
 					<p>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 					</p>
@@ -29,8 +29,7 @@
 									</div>
 								</div>
 								<p class="">
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can
-									find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
+									La mejor manera de obtener una cita medica sin interrumpir mis actividades diarias, siempre con profesionales y con el mejor servicio.
 								</p>
 							</div>
 						</div>
@@ -54,8 +53,7 @@
 									</div>
 								</div>
 								<p class="">
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can
-									find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
+									La mejor manera de obtener una cita medica sin interrumpir mis actividades diarias, siempre con profesionales y con el mejor servicio.
 								</p>
 							</div>
 						</div>
@@ -79,8 +77,7 @@
 									</div>
 								</div>
 								<p class="">
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can
-									find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
+									La mejor manera de obtener una cita medica sin interrumpir mis actividades diarias, siempre con profesionales y con el mejor servicio.
 								</p>
 							</div>
 						</div>
@@ -104,8 +101,7 @@
 									</div>
 								</div>
 								<p class="">
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can
-									find the best computer accessory for your laptop, monitor, printer, scanner, speaker.
+									La mejor manera de obtener una cita medica sin interrumpir mis actividades diarias, siempre con profesionales y con el mejor servicio.
 								</p>
 							</div>
 						</div>

@@ -6,7 +6,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="icon" href="img/favicon.png" type="image/png">
-	<title>Hospice Medical</title>
+	<title>Centro Medico</title>
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="<?php echo base_url();?>/css/bootstrap.css">
 	<link rel="stylesheet" href="<?php echo base_url();?>/vendors/linericon/style.css">
@@ -42,14 +42,14 @@
 							<!--Telefono personas -->
 							<a href="login.html">
 								<i class="lnr lnr-phone-handset"></i>
-								012-6532-568-9746
+								301-234-5678
 							</a>
 						</li>
 						<li>
 							<!-- email usuario  -->
 							<a href="#">
 								<i class="lnr lnr-envelope"></i>
-								emergency@colorlib.com
+								agendamiento@medico.com
 							</a>
 						</li>
 					</ul>
@@ -71,22 +71,22 @@
 						<div class="row ml-0 w-100">
 							<div class="col-lg-12 pr-0">
 								<ul class="nav navbar-nav center_nav pull-right">
-									<li class="nav-item active">
+									<li class="nav-item">
 										<a class="nav-link" href="citas">Agendar Citas</a>
 									</li>
-									<li class="nav-item ">
+									<li class="nav-item">
 									<a class="nav-link" href="<?php echo site_url('doctor')?>">Doctores</a>
 									</li>
-									<li class="nav-item ">
+									<li class="nav-item">
 										<a class="nav-link" href="<?php echo site_url('usuarios')?>">Administrativos</a>
 									</li>
-									<li class="nav-item ">
+									<li class="nav-item">
 										<a class="nav-link" href="<?php echo site_url('pacientes')?>">Pacientes</a>
 									</li>
-									<li class="nav-item ">
+									<li class="nav-item">
 									<a class="nav-link" href="<?php echo site_url('orden')?>">Ordenes</a>
 									</li>
-									<li class="nav-item ">
+									<li class="nav-item">
 									<a class="nav-link" href="<?php echo site_url('principal')?>">Retornar a principal</a>
 									</li>
 								</ul>
