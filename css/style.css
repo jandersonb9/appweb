@@ -3293,3 +3293,9 @@ h6 {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+
+
+img.img-circle.profile_img {
+  width: 90px !important;
+  border-radius: 100% !important;
+}

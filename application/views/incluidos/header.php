@@ -62,7 +62,7 @@
 					<!-- Brand and toggle get grouped for better mobile display -->
 					<a class="navbar-brand logo_h" href="index.html">
 						<!-- Foto del usuario -->
-						<img class= "img-circle profile_img" src="<?php echo base_url()."/assets/imagenes/usuarios/".$fotousuario;?>" alt="">
+						<img style="width: 90px !important;border-radius: 100% !important" class= "img-circle profile_img" src="<?php echo base_url()."assets/imagenes/usuarios/".$fotousuario;?>" alt="">
 						<?php echo $nombreusuario;?>
 					</a>
 					

@@ -22,9 +22,10 @@ class Doctor extends CI_Controller {
 		$vector['fecha']=date("c");
 		$vector['titulo']="hospitalm3";
 		$vector['remate']=date("Y");
-		$vector["nombredoctor"]=$this->session->userdata("nombredoctor");
-		$vector["fotodoctor"]=$this->session->userdata("fotodoctor");
-		$vector["iddoctor"]=$this->session->userdata("iddoctor");
+		$vector["nombreusuario"]=$this->session->userdata("nombrecompleto");
+		$vector["fotousuario"]=$this->session->userdata("fotousuario");
+		$vector["idusuario"]=$this->session->userdata("id");
+
 
 		$this->crud->set_table("tbldoctor");
 		$this->crud->set_subject("Listado de doctores en el sistema");
